@@ -1,5 +1,7 @@
 # Weather Type Prediction using a Feed-forward Neural Network
 
+<img width="619" alt="Screenshot 2025-01-31 at 19 42 19" src="https://github.com/user-attachments/assets/1f675b75-e491-4c86-9f04-1e2f827f86ac" />
+
 A simple project demonstrating how to build and train a neural network to predict weather types (e.g., Rainy, Cloudy, Sunny, Snowy) based on atmospheric conditions like temperature, humidity, wind speed, and more. The process includes data preprocessing, model training, evaluation, and visualization. This project contains AI-generated code.
 
 The project uses this [Dataset](https://www.kaggle.com/datasets/nikhil7280/weather-type-classification/data).
