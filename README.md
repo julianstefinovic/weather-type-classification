@@ -35,7 +35,7 @@ A simple feedforward neural network is built with three fully connected layers a
 - **Accuracy Plot**: Training and validation accuracies are plotted over epochs to monitor learning progress.
 - **Confusion Matrix**: A Confusion Matrix is used to visualize the model's performance across different weather types.
 - **t-SNE Plot**: The last layer's output is reduced to 2D using t-SNE for visualizing the distribution of weather types in the feature space.
-- **Interactive**: Open up the Jupyter Notebook to see which data points were misclassified, and to see the associated data vector
+- **Interactive**: Open up the Jupyter Notebook to see which data points were misclassified, and to see the associated data vector for each point
 
 ---
 
