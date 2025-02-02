@@ -40,7 +40,7 @@ A simple feedforward neural network is built with three fully connected layers a
 ---
 
 ## **Results**
-The model achieves a final test accuracy of `81.77%`.
+The model achieves a final test accuracy of `89.8%`.
 
 ---
 
